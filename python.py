@@ -16,3 +16,4 @@ if __name__ == "__main__":
     pivot_index = lomuto_partition(arr, low, high)
     print(f"Partitioned array: {arr}")
     print(f"Pivot index: {pivot_index}")
+    print("hello world")
